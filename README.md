@@ -14,3 +14,6 @@ With Gems: Sinatra,sinatra-contrib, rspec, capybara, and a few other gems for de
 Legal:
 This is and open source application.
 Copyright (c) 2015 Copyright Holder All Rights Reserved.
+
+Heroku Link: https://hidden-hamlet-1391.herokuapp.com
+I'm getting and application error for heroku. 

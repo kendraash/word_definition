@@ -8,6 +8,11 @@ class Word
     @id = @@all_words.length().+(1)
 
   end
+
+  define_method(:id) do
+   @id
+  end
+
   define_singleton_method(:all) do
     @@all_words
   end
@@ -18,6 +23,10 @@ class Word
 
   define_singleton_method(:clear) do
     @@all_words = []
+  end
+
+  define_method(:defintion) do
+    @defintion
   end
 
   define_method(:add_definition) do |definition|

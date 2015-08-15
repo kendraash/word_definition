@@ -15,5 +15,4 @@ Legal:
 This is and open source application.
 Copyright (c) 2015 Copyright Holder All Rights Reserved.
 
-Heroku Link: https://hidden-hamlet-1391.herokuapp.com
-I'm getting and application error for heroku. 
+Heroku Link:  https://nameless-caverns-4509.herokuapp.com/
